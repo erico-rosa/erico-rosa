@@ -1,25 +1,23 @@
-**Full-Stack Engineer | Data Visualization and Front-end Specialist**
+### Erico Rosa
+**Senior Software Engineer | Full-Stack Web Applications**
 
-20+ years with code. Frontend-focused, comfortable across many stacks and languages, adapting quickly to whatever the problem and team require. Tech-agnostic by conviction: tools serve the problem, not the other way around.
+Frontend by background. Full-stack by practice. Product-minded by experience.
 
-Let's connect: [LinkedIn](https://linkedin.com/in/ericosrosa) · [ericorosa.com](https://ericorosa.com)
+I enjoy solving product problems more than technology problems. Technology is just the tool.
 
-## Technical range
+#### Technical focus
+Software architecture · API design · Full-stack web apps · Data visualization
+and interactive UI · Information design
 
-| Area | Tools and experience |
-| --- | --- |
-| Front-end | Vue.js, Nuxt, Svelte, React, Next.js, Angular, TypeScript, JavaScript |
-| Styling | Sass, SCSS, Less, Tailwind |
-| Data visualization | D3.js, Leaflet, Mapbox, interactive UI, data storytelling |
-| Back-end | PHP (Laravel, Symfony, CodeIgniter, WordPress, Drupal), Node.js (Express, NestJS), Python (Django, Flask, FastAPI), Ruby on Rails |
-| Data | PostgreSQL, MySQL, MongoDB |
-| Cloud and infra | AWS, Azure, Google Cloud, Docker, k8s, CI/CD, Linux, Nginx |
-| Leadership | Tech direction, architecture, team building, product and business decisions |
+#### Core stack
+`JavaScript` `Vue.js` `Nuxt` `Node.js` `PHP / Laravel` `Python` `AWS` `Docker`
 
-## Experience profile
+#### Also shipped to production
+Svelte · React · Next.js · TypeScript · Ruby on Rails · Django · FastAPI · Flask · 
+PostgreSQL · MySQL · MongoDB · D3.js · Leaflet · Mapbox · CI/CD · Nginx · Linux · GCP · Azure
 
-I spent 12 years as Partner & Tech Director at **TAPRONTO + Café.art.br**, an internationally awarded studio specializing in data visualization and information design. I led technical strategy and hands-on engineering, shipping 300+ projects for clients including WHO, IDPC, GITOC, CUNY, Petrobras, Vale, UNDP, UN Women, Interpol, and Brazilian federal ministries.
+📫 hey@ericorosa.com
 
-I always sat at the table for product, design, and business decisions, not just code. That work was recognized with 50+ international awards, including iF Gold Design Award, Fast Company Innovation by Design, and Anthem Awards Gold.
+🌐 [ericorosa.com](https://ericorosa.com) 
 
-I'm now exploring new challenges: Full-stack or Frontend Engineer roles, with international teams building products that matter, especially in data visualization, social/environmental impact, healthcare, and education.
+🟦 [linkedin/ericosrosa](https://www.linkedin.com/in/ericosrosa/)
